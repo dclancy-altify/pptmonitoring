@@ -1,1 +1,222 @@
-{"process":[],"assessment":[{"long_question":"A project sponsored by a Key Player has been approved and human resources are assigned.","criterion_text":"Customer Project","tas_question":"Is there an opportunity?","order_number":1},{"long_question":"You have a strong understanding of the customer's business (their Goals, Pressures, Initiatives, and Obstacles) as it relates to this opportunity.","criterion_text":"Customer Business","tas_question":"Is there an opportunity?","order_number":2},{"long_question":"The customer's financial situation is compatible with the Customer Project.","criterion_text":"Customer Financial Condition","tas_question":"Is there an opportunity?","order_number":3},{"long_question":"The requisite funds for the project have been allocated.","criterion_text":"Access to Funds","tas_question":"Is there an opportunity?","order_number":4},{"long_question":"A Key Player has confirmed that there is pressing need for change by a specific date to avoid consequence(s) of inaction or to get the anticipated payback.","criterion_text":"Compelling Event","tas_question":"Is there an opportunity?","order_number":5},{"long_question":"You know the specific criteria and process that the Key Players will use to evaluate alternatives.","criterion_text":"Formal Decision Criteria","tas_question":"Can we compete?","order_number":6},{"long_question":"The Solution is capable of meeting the critical requirements of the project - as described by the customer.","criterion_text":"Solution Fit","tas_question":"Can we compete?","order_number":7},{"long_question":"You expect you can win this opportunity with the same (or lower) Sales effort, compared with similar opportunities.","criterion_text":"Sales Resource Requirements","tas_question":"Can we compete?","order_number":8},{"long_question":"A Key Player confirmed you have a competitive advantage, based on their experience with you either in this company, as an incumbent supplier, or in a similar project in a previous company.","criterion_text":"Current Relationship","tas_question":"Can we compete?","order_number":9},{"long_question":"A Key Player has confirmed that your Solution delivers business value in a way that uniquely differentiates you from the competition.","criterion_text":"Unique Business Value","tas_question":"Can we compete?","order_number":10},{"long_question":"A Key Player is your Mentor or Supporter.","criterion_text":"Inside Support","tas_question":"Can we win?","order_number":11},{"long_question":"You, or another person on your team, can regularly access an Executive Key Player.","criterion_text":"Executive Credibility","tas_question":"Can we win?","order_number":12},{"long_question":"Your company's culture is similar to the customer's culture, in terms of their behaviors, practices, and values.","criterion_text":"Cultural Compatibility","tas_question":"Can we win?","order_number":13},{"long_question":"A Key Player or Influencer has shared the intangible, subjective factors that could affect this decision and you can leverage these to your advantage.","criterion_text":"Informal Decision Criteria","tas_question":"Can we win?","order_number":14},{"long_question":"You expect the customer's initial order to be the same size as (or larger than) the average opportunity size for your business and the initial order is expected within a normal sales cycle.","criterion_text":"Short Term Revenue","tas_question":"Is it worth winning?","order_number":16},{"long_question":"You expect this customer to have the same, or greater, lifetime value as the average lifetime value for your business.","criterion_text":"Future Revenue","tas_question":"Is it worth winning?","order_number":17},{"long_question":"You expect the profit to be the same as (or greater than) the average opportunity profit for your business.","criterion_text":"Profitability","tas_question":"Is it worth winning?","order_number":18},{"long_question":"The level of risk in this project is no greater than your normal projects.","criterion_text":"Degree of Risk","tas_question":"Is it worth winning?","order_number":19},{"long_question":"The opportunity is strategically important for your company.","criterion_text":"Strategic Value","tas_question":"Is it worth winning?","order_number":20}],"contacts":[],"decisioncriteria":[],"goals":[],"pressures":[],"initiatives":[],"strategy":[],"actions":[{"subject":"¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ","description":"¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ","status":"Not Started","activitydate":"3/15/2018","priority":"Normal","owner":{"name":"nramalho DMDEV2"},"who":null,"isclosed":false,"ttg_prime_action_type":"Prove your value"}],"donotincludefullorgchart":true,"opportunity":{"amount":"$1,000.00","stagename":"Needs Analysis","probability":20,"closedate":"2/28/2018","name":"Nélson","dealmaker_opportunity":{"calculated_close_date":"2/28/2018"},"owner":{"name":"nramalho DMDEV2"},"days_left":""},"localisationconfig":{"config":{"action_type":"Type","actions":"Actions","adaptability":"Adaptability","adaptability_legend":"Indicates the individual's attitude to change: Innovator, Visionary, Pragmatist, Conservative or Laggard.","answer":"Comment","assessment":"Assessment","closed_actions":"Completed Actions","comments":"Comment","confirmed":"Confirmed","conflicts":"Conflicts","contact":"Contact","contacts":"Relationships","coverage":"Coverage","coverage_legend":"Indicates how much contact you have had with the person. This can be Unknown, No Contact, Brief Contact, Multiple Contacts or In-Depth.","crm_close_date":"CRM Close Date","date_created":"Briefing Created","decision_criteria":"Criteria","due_date":"Due Date","external":"External","goals":"Goals","importance_of_criterion":"Criterion","influenced_by":"Influenced By","influences":"Influences","initiative":"Initiatives","no":"No","no_conflicts_set":"No Conflicts Set","no_coverage":"No Coverage Set","no_influences_set":"No Influences Set","no_notes":"No Notes","no_obstacles":"No Obstacles","no_owner":"No Owner","no_political_status_set":"No Political Status Set","no_your_status_set":"No Your Status Set","not_confirmed":"Not Confirmed","note":"Notes","notes":"Notes","obstacles":"Obstacles","open_actions":"Open Actions","opportunity_value":"Amount","organisation_structure":"Organization Structure","our_position":"Our Position","no_solutions":"No Solutions","overview":"Overview","owner":"Owner","political_status":"Political Status","political_status_legend":"Political Status indicates an individual's level of influence within the customer organization.","pressures":"Pressures","priority":"Priority","process":"Process","projected_close_date":"Projected Close Date","question":"Criterion Text","recommended":"Recommended Strategy","reports_to":"Reports To","solutions":"Solutions","stage":"Stage","status":"Status","strategy":"Strategy","strategy_name_col":"Name","time_left":"Time Left","timeline_confidence":"Timeline Confidence","unknown":"Unknown","user_selected":"User Selected","yes":"Yes","your_status":"Your Status","your_status_legend":"Status indicates your position (as a company) with the person. They may be your Mentor, Supporter, Neutral, Non-Supporter or Enemy.","company_name":"Altify","briefing_created_date":"3/15/2018"}}}
+{
+	"process": [],
+	"assessment": [{
+		"long_question": "A project sponsored by a Key Player has been approved and human resources are assigned.",
+		"criterion_text": "Customer Project",
+		"tas_question": "Is there an opportunity?",
+		"order_number": 1
+	},
+	{
+		"long_question": "You have a strong understanding of the customer's business (their Goals, Pressures, Initiatives, and Obstacles) as it relates to this opportunity.",
+		"criterion_text": "Customer Business",
+		"tas_question": "Is there an opportunity?",
+		"order_number": 2
+	},
+	{
+		"long_question": "The customer's financial situation is compatible with the Customer Project.",
+		"criterion_text": "Customer Financial Condition",
+		"tas_question": "Is there an opportunity?",
+		"order_number": 3
+	},
+	{
+		"long_question": "The requisite funds for the project have been allocated.",
+		"criterion_text": "Access to Funds",
+		"tas_question": "Is there an opportunity?",
+		"order_number": 4
+	},
+	{
+		"long_question": "A Key Player has confirmed that there is pressing need for change by a specific date to avoid consequence(s) of inaction or to get the anticipated payback.",
+		"criterion_text": "Compelling Event",
+		"tas_question": "Is there an opportunity?",
+		"order_number": 5
+	},
+	{
+		"long_question": "You know the specific criteria and process that the Key Players will use to evaluate alternatives.",
+		"criterion_text": "Formal Decision Criteria",
+		"tas_question": "Can we compete?",
+		"order_number": 6
+	},
+	{
+		"long_question": "The Solution is capable of meeting the critical requirements of the project - as described by the customer.",
+		"criterion_text": "Solution Fit",
+		"tas_question": "Can we compete?",
+		"order_number": 7
+	},
+	{
+		"long_question": "You expect you can win this opportunity with the same (or lower) Sales effort, compared with similar opportunities.",
+		"criterion_text": "Sales Resource Requirements",
+		"tas_question": "Can we compete?",
+		"order_number": 8
+	},
+	{
+		"long_question": "A Key Player confirmed you have a competitive advantage, based on their experience with you either in this company, as an incumbent supplier, or in a similar project in a previous company.",
+		"criterion_text": "Current Relationship",
+		"tas_question": "Can we compete?",
+		"order_number": 9
+	},
+	{
+		"long_question": "A Key Player has confirmed that your Solution delivers business value in a way that uniquely differentiates you from the competition.",
+		"criterion_text": "Unique Business Value",
+		"tas_question": "Can we compete?",
+		"order_number": 10
+	},
+	{
+		"long_question": "A Key Player is your Mentor or Supporter.",
+		"criterion_text": "Inside Support",
+		"tas_question": "Can we win?",
+		"order_number": 11
+	},
+	{
+		"long_question": "You, or another person on your team, can regularly access an Executive Key Player.",
+		"criterion_text": "Executive Credibility",
+		"tas_question": "Can we win?",
+		"order_number": 12
+	},
+	{
+		"long_question": "Your company's culture is similar to the customer's culture, in terms of their behaviors, practices, and values.",
+		"criterion_text": "Cultural Compatibility",
+		"tas_question": "Can we win?",
+		"order_number": 13
+	},
+	{
+		"long_question": "A Key Player or Influencer has shared the intangible, subjective factors that could affect this decision and you can leverage these to your advantage.",
+		"criterion_text": "Informal Decision Criteria",
+		"tas_question": "Can we win?",
+		"order_number": 14
+	},
+	{
+		"long_question": "You expect the customer's initial order to be the same size as (or larger than) the average opportunity size for your business and the initial order is expected within a normal sales cycle.",
+		"criterion_text": "Short Term Revenue",
+		"tas_question": "Is it worth winning?",
+		"order_number": 16
+	},
+	{
+		"long_question": "You expect this customer to have the same, or greater, lifetime value as the average lifetime value for your business.",
+		"criterion_text": "Future Revenue",
+		"tas_question": "Is it worth winning?",
+		"order_number": 17
+	},
+	{
+		"long_question": "You expect the profit to be the same as (or greater than) the average opportunity profit for your business.",
+		"criterion_text": "Profitability",
+		"tas_question": "Is it worth winning?",
+		"order_number": 18
+	},
+	{
+		"long_question": "The level of risk in this project is no greater than your normal projects.",
+		"criterion_text": "Degree of Risk",
+		"tas_question": "Is it worth winning?",
+		"order_number": 19
+	},
+	{
+		"long_question": "The opportunity is strategically important for your company.",
+		"criterion_text": "Strategic Value",
+		"tas_question": "Is it worth winning?",
+		"order_number": 20
+	}],
+	"contacts": [],
+	"decisioncriteria": [],
+	"goals": [],
+	"pressures": [],
+	"initiatives": [],
+	"strategy": [],
+	"actions": [{
+		"subject": "¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ",
+		"description": "¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ",
+		"status": "Not Started",
+		"activitydate": "3/15/2018",
+		"priority": "Normal",
+		"owner": {
+			"name": "nramalho DMDEV2"
+		},
+		"who": null,
+		"isclosed": false,
+		"ttg_prime_action_type": "Prove your value"
+	}],
+	"donotincludefullorgchart": true,
+	"opportunity": {
+		"amount": "$1,000.00",
+		"stagename": "Needs Analysis",
+		"probability": 20,
+		"closedate": "2/28/2018",
+		"name": "Nélson",
+		"dealmaker_opportunity": {
+			"calculated_close_date": "2/28/2018"
+		},
+		"owner": {
+			"name": "nramalho DMDEV2"
+		},
+		"days_left": ""
+	},
+	"localisationconfig": {
+		"config": {
+			"action_type": "Type",
+			"actions": "Actions",
+			"adaptability": "Adaptability",
+			"adaptability_legend": "Indicates the individual's attitude to change: Innovator, Visionary, Pragmatist, Conservative or Laggard.",
+			"answer": "Comment",
+			"assessment": "Assessment",
+			"closed_actions": "Completed Actions",
+			"comments": "Comment",
+			"confirmed": "Confirmed",
+			"conflicts": "Conflicts",
+			"contact": "Contact",
+			"contacts": "Relationships",
+			"coverage": "Coverage",
+			"coverage_legend": "Indicates how much contact you have had with the person. This can be Unknown, No Contact, Brief Contact, Multiple Contacts or In-Depth.",
+			"crm_close_date": "CRM Close Date",
+			"date_created": "Briefing Created",
+			"decision_criteria": "Criteria",
+			"due_date": "Due Date",
+			"external": "External",
+			"goals": "Goals",
+			"importance_of_criterion": "Criterion",
+			"influenced_by": "Influenced By",
+			"influences": "Influences",
+			"initiative": "Initiatives",
+			"no": "No",
+			"no_conflicts_set": "No Conflicts Set",
+			"no_coverage": "No Coverage Set",
+			"no_influences_set": "No Influences Set",
+			"no_notes": "No Notes",
+			"no_obstacles": "No Obstacles",
+			"no_owner": "No Owner",
+			"no_political_status_set": "No Political Status Set",
+			"no_your_status_set": "No Your Status Set",
+			"not_confirmed": "Not Confirmed",
+			"note": "Notes",
+			"notes": "Notes",
+			"obstacles": "Obstacles",
+			"open_actions": "Open Actions",
+			"opportunity_value": "Amount",
+			"organisation_structure": "Organization Structure",
+			"our_position": "Our Position",
+			"no_solutions": "No Solutions",
+			"overview": "Overview",
+			"owner": "Owner",
+			"political_status": "Political Status",
+			"political_status_legend": "Political Status indicates an individual's level of influence within the customer organization.",
+			"pressures": "Pressures",
+			"priority": "Priority",
+			"process": "Process",
+			"projected_close_date": "Projected Close Date",
+			"question": "Criterion Text",
+			"recommended": "Recommended Strategy",
+			"reports_to": "Reports To",
+			"solutions": "Solutions",
+			"stage": "Stage",
+			"status": "Status",
+			"strategy": "Strategy",
+			"strategy_name_col": "Name",
+			"time_left": "Time Left",
+			"timeline_confidence": "Timeline Confidence",
+			"unknown": "Unknown",
+			"user_selected": "User Selected",
+			"yes": "Yes",
+			"your_status": "Your Status",
+			"your_status_legend": "Status indicates your position (as a company) with the person. They may be your Mentor, Supporter, Neutral, Non-Supporter or Enemy.",
+			"company_name": "Altify",
+			"briefing_created_date": "3/15/2018"
+		}
+	}
+}
