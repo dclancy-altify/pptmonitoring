@@ -3,10 +3,10 @@
 
 	<target name="mail">
 
-		<mail mailhost="east.EXCH021.serverdata.net" mailport="25" subject="PPT Test results [${build}]" enableStartTLS="true" user="dclancy@thetasgroup.com" password="TASGroup1!">
+		<mail mailhost="east.EXCH021.serverdata.net" mailport="25" subject="PPT Test results" enableStartTLS="true" user="dclancy@altify.com" password="TASGroup1!">
 			
-			<from address="DClancy@thetasgroup.com"/>
-			<to address="DClancy@thetasgroup.com" />
+			<from address="DClancy@altify.com"/>
+			<to address="DClancy@altify.com" />
 			
 			<message>The tests have completed successfully. Please find the results attached. &#10;&#10;Attachment: results.zip</message>
 			<attachments>
