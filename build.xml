@@ -3,7 +3,7 @@
 
 	<target name="mail">
 
-		<mail mailhost="east.EXCH021.serverdata.net" mailport="25" subject="PPT Test results [${build}]" enableStartTLS="true" user="JHarney@thetasgroup.com" password="2M$35dnG">
+		<mail mailhost="east.EXCH021.serverdata.net" mailport="25" subject="PPT Test results [${build}]" enableStartTLS="true" user="dclancy@thetasgroup.com" password="TASGroup1!">
 			
 			<from address="DClancy@thetasgroup.com"/>
 			<to address="DClancy@thetasgroup.com" />
