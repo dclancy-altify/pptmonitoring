@@ -1,0 +1,19 @@
+<project basedir="." name="PowerPoint Tester" default="mail">
+
+
+	<target name="mail">
+
+		<mail mailhost="east.EXCH021.serverdata.net" mailport="25" subject="PPT Test results [${build}]" enableStartTLS="true" user="JHarney@thetasgroup.com" password="2M$35dnG">
+			
+			<from address="DClancy@thetasgroup.com"/>
+			<to address="DClancy@thetasgroup.com" />
+			
+			<message>The tests have completed successfully. Please find the results attached. &#10;&#10;Attachment: results.zip</message>
+			<attachments>
+				<fileset dir="C:/temp/">
+					<include name="**/results.zip"/>
+				</fileset>
+			</attachments>
+		</mail>
+	</target>
+</project>
