@@ -1,4 +1,5 @@
-﻿"C:\Program Files\curl-7.54.0-win64-mingw\bin\curl" -X POST -H "Content-Type:application/json; charset=UTF-8" -d @.\dev\8.36\om\json\ExecBriefing_OM_Nelson.json  http://pptgenpatch.herokuapp.com/docx/omexecoutput/8.36?auth_key=F0jA8RWsKnnNWC > C:\temp\dev\8.36\om\doc\ExecBriefing_OM_Nelson.docx
+﻿
+"C:\Program Files\curl-7.54.0-win64-mingw\bin\curl" -X POST -H "Content-Type:application/json; charset=UTF-8" -d @.\dev\8.36\om\json\ExecBriefing_OM_Nelson.json  http://pptgenpatch.herokuapp.com/docx/omexecoutput/8.36?auth_key=F0jA8RWsKnnNWC > C:\temp\dev\8.36\om\doc\ExecBriefing_OM_Nelson.docx
 "C:\Program Files\curl-7.54.0-win64-mingw\bin\curl" -X POST -H "Content-Type:application/json; charset=UTF-8" -d @.\dev\8.36\am\json\ExecBriefing_AM_Nelson.json  http://pptgenpatch.herokuapp.com/docx/amexecoutput/8.36?auth_key=F0jA8RWsKnnNWC > C:\temp\dev\8.36\am\doc\ExecBriefing_AM_Nelson.docx
 
 "C:\Program Files\curl-7.54.0-win64-mingw\bin\curl" -X POST -H "Content-Type:application/json" -d @.\dev\8.36\am\json\SmartAM_Dan_Test_Plan_DMDEV-13325.json  http://pptgenpatch.herokuapp.com/pptx/am/8.36?auth_key=F0jA8RWsKnnNWC > C:\temp\dev\8.36\am\ppt\SmartAM_Dan_Test_Plan_DMDEV-13325.pptx

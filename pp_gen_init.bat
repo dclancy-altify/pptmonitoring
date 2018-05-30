@@ -1,4 +1,5 @@
-﻿del C:\temp\dev\8.36\accountmap\ppt\*.*x
+﻿
+del C:\temp\dev\8.36\accountmap\ppt\*.*x
 del C:\temp\dev\8.36\insightmap\ppt\*.*x
 del C:\temp\dev\8.36\om\ppt\*.*x
 del C:\temp\dev\8.36\om\doc\*.*x
