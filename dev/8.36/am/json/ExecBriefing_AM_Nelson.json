@@ -1,0 +1,108 @@
+{
+    "donotincludefullorgchart": true,
+    "accountplan":
+    {
+        "name": "Nélson",
+        "owner":
+        {
+            "name": "atanas DMDEV2"
+        },
+        "plan_units": [
+        {
+            "name": "Unit 2"
+        }]
+    },
+    "plandetails": [
+    {
+        "section_heading": "Executive Summary",
+        "question_text": "Overall Account Goal"
+    }],
+    "planunitdetails": [],
+    "contacts": [],
+    "goals": [],
+    "pressures": [],
+    "initiatives": [],
+    "planunitcurrentopportunities": [],
+    "planunitpotentialopportunities": [
+    {
+        "name": "¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ",
+        "amount": "$0.00",
+        "opportunity": null,
+        "plan_solution":
+        {
+            "name": "Solution 2"
+        },
+        "plan_unit":
+        {
+            "name": "Unit 2"
+        }
+    }],
+    "planunitwonopportunities": [],
+    "objectives": [],
+    "localisationconfig":
+    {
+        "config":
+        {
+            "adaptability": "Adaptability",
+            "adaptability_description": "Indicates the individual's attitude to change: Innovator, Visionary, Pragmatist, Conservative or Laggard",
+            "am_coverage_description": "Indicates how much contact you have had with the person. This can be Unknown, No Contact, Brief Contact, Multiple Contacts or In-Depth.",
+            "am_decision_orientation_description": "Decision Orientation indicates the perspective that drives the person's decision-making process: Financial, Technical, Relationship or Business",
+            "am_political_status_description": "Political Status indicates an individual's level of influence within the customer organization.",
+            "am_your_status_description": "Status indicates your position (as a company) with the person. They may be your Mentor, Supporter, Neutral, Non-Supporter or Enemy.",
+            "amount": "Amount",
+            "businessunitdetails": "Business Unit DetailsX",
+            "close_date": "Close Date",
+            "confirmed": "Confirmed",
+            "conflicts": "Conflicts",
+            "contacts": "Contacts",
+            "coverage": "Coverage",
+            "current_opportunities": "Current Opportunities",
+            "date_created": "Briefing Created",
+            "decision_orientation": "Decision Orientation",
+            "due_date": "Due Date",
+            "external": "External",
+            "goals": "Goals",
+            "influenced_by": "Influenced By",
+            "influences": "Influences",
+            "initiative": "Initiatives",
+            "key_opportunities": "Key Opportunities",
+            "metric": "Metric",
+            "no": "No",
+            "no_coverage": "No Coverage Set",
+            "no_obstacles": "No Obstacles",
+            "no_owner": "No Owner",
+            "no_solution": "No Solutions",
+            "no_solutions": "No Solutions",
+            "no_your_status_set": "No Your Status Set",
+            "no_conflicts_set": "No Conflicts Set",
+            "no_influences_set": "No Influences Set",
+            "no_political_status_set": "No Political Status Set",
+            "not_confirmed": "Not Confirmed",
+            "note": "Notes",
+            "objectives": "Objectives",
+            "obstacles": "Obstacles",
+            "opportunity_name": "Name",
+            "organisation_structure": "Organization Structure",
+            "owner": "Owner",
+            "plan_unit": "Plan Unit",
+            "political_status": "Political Status",
+            "potential_opportunities": "Potential Opportunities",
+            "pressures": "Pressures",
+            "priority": "Priority",
+            "relevance_to_customer": "Relevance to Customer",
+            "no_notes": "No Notes",
+            "reports_to": "Reports To",
+            "solution": "Solutions",
+            "solutions": "Solutions",
+            "stage": "Stage",
+            "status": "Status",
+            "strategy": "Strategy",
+            "type": "Type",
+            "unknown": "Unknown",
+            "won_opportunities": "Won Opportunities",
+            "yes": "Yes",
+            "your_status": "Your Status",
+            "briefing_created_date": "3/16/2018"
+        }
+    }
+}
